@@ -1,0 +1,45 @@
+body {
+    background-image: url('colorful-triangles.jpg');
+    font-family: 'Finger Paint';
+    font-size: 13px;
+}
+
+h1 {
+    display: flex;
+    width: 20px;
+}
+
+
+.retangulo {
+    background-color: azure;
+    padding: 0.9em;
+    margin: 10em;
+    display: flex;
+}
+
+#imagem {
+      
+}
+
+#conteudo {
+    background-color: blue;
+    margin: 0.5em;
+    padding: 4em;
+    color: aliceblue;
+}
+
+img {
+    width: 22em;
+    height: 32em;
+}
+
+input[type="email"] {
+    border-radius: 0.6em;
+    font-size: 20px;
+}
+
+button {
+    border-radius: 0.5em;
+    font-size: 22px;
+    background-color: ;
+}
